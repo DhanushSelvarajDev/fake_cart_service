@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "65b7a1234567890123456781",
+        "title": "Classic White Sneakers",
+        "description": "Comfortable and stylish white sneakers perfect for everyday wear.",
+        "price": 59.99,
+        "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=2012&auto=format&fit=crop",
+        "category": "Footwear",
+        "stock": 50
+    },
+    {
+        "_id": "65b7a1234567890123456782",
+        "title": "Leather Crossbody Bag",
+        "description": "Handcrafted leather bag with adjustable strap and multiple compartments.",
+        "price": 85.00,
+        "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=2069&auto=format&fit=crop",
+        "category": "Accessories",
+        "stock": 30
+    },
+    {
+        "_id": "65b7a1234567890123456783",
+        "title": "Minimalist Wall Clock",
+        "description": "Sleek and silent wall clock with a modern oak wood finish.",
+        "price": 45.50,
+        "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?q=80&w=2070&auto=format&fit=crop",
+        "category": "Home Decor",
+        "stock": 25
+    },
+    {
+        "_id": "65b7a1234567890123456784",
+        "title": "Bluetooth Noise-Cancelling Headphones",
+        "description": "High-quality wireless headphones with long battery life and superior sound.",
+        "price": 129.99,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=2070&auto=format&fit=crop",
+        "category": "Electronics",
+        "stock": 40
+    },
+    {
+        "_id": "65b7a1234567890123456785",
+        "title": "Organic Cotton T-Shirt",
+        "description": "Soft and breathable t-shirt made from 100% organic cotton.",
+        "price": 25.00,
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=2080&auto=format&fit=crop",
+        "category": "Apparel",
+        "stock": 100
+    },
+    {
+        "_id": "65b7a1234567890123456786",
+        "title": "Smart Stainless Steel Water Bottle",
+        "description": "Insulated water bottle that keeps drinks cold for 24 hours and hot for 12 hours.",
+        "price": 35.00,
+        "image": "https://images.unsplash.com/photo-1602143307185-8c1f55856ee0?q=80&w=1974&auto=format&fit=crop",
+        "category": "Lifestyle",
+        "stock": 60
+    },
+    {
+        "_id": "65b7a1234567890123456787",
+        "title": "Professional Chef's Knife",
+        "description": "Ultra-sharp high-carbon stainless steel knife for precision cutting.",
+        "price": 75.00,
+        "image": "https://images.unsplash.com/photo-1593611311055-515a28cb717c?q=80&w=1920&auto=format&fit=crop",
+        "category": "Kitchen",
+        "stock": 15
+    },
+    {
+        "_id": "65b7a1234567890123456788",
+        "title": "Natural Soy Wax Candle",
+        "description": "Eco-friendly soy candle with a calming lavender and eucalyptus scent.",
+        "price": 18.00,
+        "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?q=80&w=1974&auto=format&fit=crop",
+        "category": "Home Decor",
+        "stock": 80
+    }
+]
